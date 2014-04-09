@@ -4,3 +4,6 @@ $ git remote add origin https://github.com/taylorla/HelloWorld.md
 
 git push origin master
 # Sends your commits in the "master" branch to GitHub
+
+$ git clone https://github.com/taylorla/datasciencecoursera
+# Clones your fork of the repository into the current directory in terminal
